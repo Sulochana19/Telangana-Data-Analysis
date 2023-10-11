@@ -24,11 +24,11 @@ Districts of Investment: Deep-diving into sector investments unveiled the top 3 
 Interrelationship Analysis: We explored connections between district investments, vehicle sales, and stamps revenue to drive informed decisions.
 Seasonal Investment Trends: Intriguing seasonal patterns in investment trends for specific sectors emerged, offering a key to strategic planning.
 
-🌟🧰 Tools Used:
+# 🌟🧰 Tools Used:
 Power BI (for Visualization)
 Excel (for Data Cleaning)
 
-🌟 Actionable Recommendations:
+# 🌟 Actionable Recommendations:
 Diversify Economic Base: Encourage investment in emerging sectors such as renewable energy, electric vehicles, and advanced manufacturing to diversify the state's economic base.
 
 Regional Development: Implement regional development plans to ensure balanced growth across districts, leveraging each district's unique strengths and resources.
