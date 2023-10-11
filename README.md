@@ -15,7 +15,7 @@ Analyse Telangana’s growth among different sectors quantitatively and provide 
 ![image](https://github.com/Sulochana19/Telangana-Data-Analysis/assets/79690760/7c86e509-be58-47a2-8f56-bd61222dfa85)
 
 # 🌟🔍 Key Highlights:
-Data Exploration: We analyzed data from FY 2019 to 2022 to identify revenue patterns across districts.
+<li>Data Exploration: We analyzed data from FY 2019 to 2022 to identify revenue patterns across districts.
 Top-Growing Districts: The top 5 districts showed remarkable revenue growth, indicating exciting prospects.
 Vehicle Sales & Seasons: Intriguing correlations between vehicle sales and specific months or seasons can steer marketing strategies.
 Vehicle Class Preferences: In FY 2022, we uncovered how vehicle class distribution varied across districts, shedding light on local preferences.
