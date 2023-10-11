@@ -15,26 +15,26 @@ Analyse Telangana’s growth among different sectors quantitatively and provide 
 ![image](https://github.com/Sulochana19/Telangana-Data-Analysis/assets/79690760/7c86e509-be58-47a2-8f56-bd61222dfa85)
 
 # 🌟🔍 Key Highlights:
-<li>Data Exploration: We analyzed data from FY 2019 to 2022 to identify revenue patterns across districts.
-Top-Growing Districts: The top 5 districts showed remarkable revenue growth, indicating exciting prospects.
-Vehicle Sales & Seasons: Intriguing correlations between vehicle sales and specific months or seasons can steer marketing strategies.
-Vehicle Class Preferences: In FY 2022, we uncovered how vehicle class distribution varied across districts, shedding light on local preferences.
-Sector Investments: The top 5 sectors witnessed significant investments, shaping Telangana's growth landscape.
-Districts of Investment: Deep-diving into sector investments unveiled the top 3 districts attracting substantial investments from FY 2019 to 2022.
-Interrelationship Analysis: We explored connections between district investments, vehicle sales, and stamps revenue to drive informed decisions.
-Seasonal Investment Trends: Intriguing seasonal patterns in investment trends for specific sectors emerged, offering a key to strategic planning.
+<li>Data Exploration: We analyzed data from FY 2019 to 2022 to identify revenue patterns across districts.</li>
+<li>Top-Growing Districts: The top 5 districts showed remarkable revenue growth, indicating exciting prospects.</li>
+<li>Vehicle Sales & Seasons: Intriguing correlations between vehicle sales and specific months or seasons can steer marketing strategies.</li>
+<li>Vehicle Class Preferences: In FY 2022, we uncovered how vehicle class distribution varied across districts, shedding light on local preferences.</li>
+<li>Sector Investments: The top 5 sectors witnessed significant investments, shaping Telangana's growth landscape.</li>
+<li>Districts of Investment: Deep-diving into sector investments unveiled the top 3 districts attracting substantial investments from FY 2019 to 2022.</li>
+<li>Interrelationship Analysis: We explored connections between district investments, vehicle sales, and stamps revenue to drive informed decisions.</li>
+<li>Seasonal Investment Trends: Intriguing seasonal patterns in investment trends for specific sectors emerged, offering a key to strategic planning.</li>
 
 # 🌟🧰 Tools Used:
-Power BI (for Visualization)
-Excel (for Data Cleaning)
+<li>Power BI (for Visualization)</li>
+<li>Excel (for Data Cleaning)</li>
 
 # 🌟 Actionable Recommendations:
-Diversify Economic Base: Encourage investment in emerging sectors such as renewable energy, electric vehicles, and advanced manufacturing to diversify the state's economic base.
+1. Diversify Economic Base: Encourage investment in emerging sectors such as renewable energy, electric vehicles, and advanced manufacturing to diversify the state's economic base.
 
-Regional Development: Implement regional development plans to ensure balanced growth across districts, leveraging each district's unique strengths and resources.
+2. Regional Development: Implement regional development plans to ensure balanced growth across districts, leveraging each district's unique strengths and resources.
 
-Sustainability Initiatives: Incentivize businesses to adopt sustainable practices and technologies, making Telangana an attractive destination for green industries.
+3. Sustainability Initiatives: Incentivize businesses to adopt sustainable practices and technologies, making Telangana an attractive destination for green industries.
 
-Skill Enhancement: Collaborate with educational institutions and private enterprises to offer skill development programs that align with industry needs, fostering a skilled workforce.
+4. Skill Enhancement: Collaborate with educational institutions and private enterprises to offer skill development programs that align with industry needs, fostering a skilled workforce.
 
-Investor-Friendly Policies: Continue to refine and update policies that promote ease of doing business, offering attractive incentives and support to investors and entrepreneurs.
+5. Investor-Friendly Policies: Continue to refine and update policies that promote ease of doing business, offering attractive incentives and support to investors and entrepreneurs.
